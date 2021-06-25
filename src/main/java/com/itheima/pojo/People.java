@@ -6,5 +6,5 @@ package com.itheima.pojo;
  */
 public class People {
     String name;
-    int age;
+    int age;//年龄
 }
