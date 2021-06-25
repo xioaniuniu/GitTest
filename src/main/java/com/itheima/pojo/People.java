@@ -5,6 +5,6 @@ package com.itheima.pojo;
  * @create 2021-06-25 19:08
  */
 public class People {
-    String name;
+    String name;//用户名
     int age;
 }
